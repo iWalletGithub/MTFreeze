@@ -1,0 +1,8 @@
+name: MTFreeze
+version: '${project.version}'
+main: me.iwallet.mtfreeze.MTFreeze
+authors: [ iWallet ]
+description: Jou freeze plugin!
+commands:
+  mtfreeze:
+  freeze:
